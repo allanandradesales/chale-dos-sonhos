@@ -1,0 +1,19 @@
+{
+  "name": "chale-dos-sonhos",
+  "version": "1.0.0",
+  "description": "Landing page para venda do Chalé dos Sonhos — Casa de madeira no Águas da Serra, Bananeiras-PB",
+  "private": true,
+  "scripts": {
+    "dev": "npx http-server . -p 3000",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "chalé",
+    "bananeiras",
+    "águas da serra",
+    "imóvel",
+    "venda"
+  ],
+  "author": "",
+  "license": "ISC"
+}
